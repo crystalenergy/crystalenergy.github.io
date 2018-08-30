@@ -610,6 +610,51 @@
 
 
 
+## 劇場/OVA枠
+
+- 劇場枠はTVシリーズより－1点くらいの評価で記述されてます。
+つまり10点がついてるということは本当に優秀ということですね。
+
+|作品名|アニメーション|サウンド|キャラクター|シナリオ|総合|
+|:--:|:--:|:--:|:--:|:--:|:--:|
+|劇場版 マクロスF 虚空歌姫～イツワリノウタヒメ～|9|<span style="color: red; ">10</span> |8|9|9|
+|劇場版 マクロスF 恋離飛翼～サヨナラノツバサ～|<span style="color: red; ">10</span> |<span style="color: red; ">10</span> |8|8|9|
+|劇場版文学少女|8|''&color(red){10};''|9|8|8.75|
+|青の祓魔師-劇場版-|<span style="color: red; ">10</span> |9|9|<span style="color: red; ">10</span> |9.5|
+|劇場版 天元突破 グレンラガン 紅蓮篇|8|9|<span style="color: red; ">10</span> |8|8.75|
+|劇場版 天元突破 グレンラガン 螺巌篇|8|9|<span style="color: red; ">10</span> |9|9|
+|劇場版 あの日見た花の名前を僕達はまだ知らない|9|9|<span style="color: red; ">10</span> |8|9|
+|劇場版 魔法少女まどか☆マギカ[前編]始まりの物語|9|9|9|8|8.75|
+|劇場版 魔法少女まどか☆マギカ[後編]永遠の物語|9|9|9|6|8.25|
+|劇場版 魔法少女まどか☆マギカ[新編]叛逆の物語|9|9|<span style="color: red; ">10</span> |5|8.25|
+|劇場版花咲くいろは|<span style="color: red; ">10</span> |8|<span style="color: red; ">10</span> |9|9.25|
+|ブレイクブレイド|<span style="color: red; ">10</span> |<span style="color: red; ">10</span> |<span style="color: red; ">10</span> |9|9.75|
+|たまこラブストーリー|9|8|<span style="color: red; ">10</span> |9|9|
+|猫物語|8|8|9|9|8.5|
+|大魔法峠|8|7|8|9|8|
+|魔法少女リリカルなのは The Movie 1st|<span style="color: red; ">10</span> |<span style="color: red; ">10</span> |9|<span style="color: red; ">10</span> |9.75|
+|魔法少女リリカルなのは The MOVIE 2nd A's|<span style="color: red; ">10</span> |<span style="color: red; ">10</span> |<span style="color: red; ">10</span> |<span style="color: red; ">10</span> |<span style="color: red; ">10</span> |
+|To LOVEる ダークネスOVA1|9|9|<span style="color: red; ">10</span> |8|9|
+|To LOVEる ダークネスOVA2|9|9|<span style="color: red; ">10</span> |9|9.25|
+|アクセルワールドOVA1|7|7|9|8|7.75|
+|アクセルワールドOVA2|7|7|9|7|7.5|
+|ファイブスター物語|<span style="color: red; ">10</span> |8|9|9|9|
+|劇場版 蒼き鋼のアルペジオ －アルス・ノヴァ－ DC|7|9|8|7|7.75|
+|劇場版 蒼き鋼のアルペジオ －アルス・ノヴァ－ Cadenza|9|<span style="color: red; ">10</span> |9|9|9.25|
+|心が叫びたがってるんだ。|<span style="color: red; ">10</span> |<span style="color: red; ">10</span> |<span style="color: red; ">10</span> |9|9.75|
+|ARIA The AVVENIRE|9|<span style="color: red; ">10</span> |<span style="color: red; ">10</span> |8|9.25|
+|ガールズ＆パンツァー 劇場版|<span style="color: red; ">10</span> |<span style="color: red; ">10</span> |<span style="color: red; ">10</span> |<span style="color: red; ">10</span> |<span style="color: red; ">10</span> |
+|ガールズ＆パンツァー これが本当のアンツィオ戦です！|9|8|<span style="color: red; ">10</span> |9|9|
+|劇場版『THE IDOLM@STER MOVIE 輝きの向こう側へ！』|9|9|9|8|8.75|
+|KINGSGLAIVE FINAL FANTASY XV|<span style="color: red; ">10</span> |9|8|8|8.75|
+|言の葉の庭|<span style="color: red; ">10</span> |<span style="color: red; ">10</span> |9|8|9.25|
+|君の名は。|<span style="color: red; ">10</span> |<span style="color: red; ">10</span> |<span style="color: red; ">10</span> |<span style="color: red; ">10</span> |<span style="color: red; ">10</span> |
+|ストライク・ザ・ブラッド-ヴァルキュリアの王国篇-|9|9|<span style="color: red; ">10</span> |8|9|
+|ポッピンQ|8|<span style="color: red; ">10</span> |9|7|8.5|
+|ゼーガペインADP|7|8|9|8|8|
+|劇場版 ソードアート・オンライン -オーディナル・スケール-|9|8|<span style="color: red; ">10</span> |9|9|
+|青の6号|9|9|8|7|8.25|
+|劇場版 Fate/kaleid linerプリズマ☆イリヤ 雪下の誓い|9|<span style="color: red; ">10</span> |9|9|9.25|
 
 
 
