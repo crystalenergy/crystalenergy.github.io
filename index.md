@@ -362,7 +362,7 @@
 |うーさーのその日暮らし 夢幻編|7|8|7|7|7.25|
 |わかば*ガール|8|7|7|6|7|
 
-[2](https://github.com/crystalenergy/crystalenergy.github.io/blob/master/index.md%202)
+[2](https://github.com/crystalenergy/crystalenergy.github.io)
 
 
 
