@@ -35,3 +35,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+男性。静岡市在住。39歳。誕生日は1月13日。（ときめきメモリアルの虹野沙希、アイドルマスターシンデレラガールズの浜口あやめ、声優の三澤紗千香と同じ）両利き。
