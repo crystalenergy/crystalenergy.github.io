@@ -88,7 +88,7 @@
 
 |作品名|アニメーション|サウンド|キャラクター|シナリオ|総合|
 |:--:|:--:|:--:|:--:|:--:|:--:|
-| <span style="color: red; ">10</span> |<span style="color: red; ">10</span> |<span style="color: red; ">10</span> |<span style="color: red; ">10</span> |<span style="color: red; ">10</span> |
+||銀河英雄伝説|<span style="color: red; ">10</span> |<span style="color: red; ">10</span> |<span style="color: red; ">10</span> |<span style="color: red; ">10</span> |
 
 
 
