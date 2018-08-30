@@ -1,6 +1,7 @@
 名前：くりすたるえなじー(くりえな)
 
-本垢:(http://twitter.com/crystalenergy)
+本垢:(http://twitter.com/crystalenergy)![c0a0d57d-61a7-44a4-b04a-d79bd9a095d2](https://user-images.githubusercontent.com/42828621/44844549-35064a80-ac86-11e8-8fc0-bade647ebd60.jpg)
+
 
 サブ垢メイン:(http://twitter.com/crystalenergy_F)
 
