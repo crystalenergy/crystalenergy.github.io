@@ -1,12 +1,12 @@
 # 名前：くりすたるえなじー(くりえな)
 
-- 本垢:(http://twitter.com/crystalenergy)![c0a0d57d-61a7-44a4-b04a-d79bd9a095d2](https://user-images.githubusercontent.com/42828621/44844549-35064a80-ac86-11e8-8fc0-bade647ebd60.jpg)
+- [本垢](http://twitter.com/crystalenergy)![c0a0d57d-61a7-44a4-b04a-d79bd9a095d2](https://user-images.githubusercontent.com/42828621/44844549-35064a80-ac86-11e8-8fc0-bade647ebd60.jpg)
 
 
-- サブ垢メイン:(http://twitter.com/crystalenergy_F)![1f25c0d0-9ba2-4b6a-96b2-92d54e68a37d](https://user-images.githubusercontent.com/42828621/44844636-6aab3380-ac86-11e8-9b72-256e4cf4fe68.jpg)
+- [サブ垢メイン](http://twitter.com/crystalenergy_F)![1f25c0d0-9ba2-4b6a-96b2-92d54e68a37d](https://user-images.githubusercontent.com/42828621/44844636-6aab3380-ac86-11e8-9b72-256e4cf4fe68.jpg)
 
 
-- サブ垢なうぷれ:(http://twitter.com/crystalenergy_m)![1d50c541-f0f7-4489-9000-d2f3c9b7196b](https://user-images.githubusercontent.com/42828621/44844681-8a425c00-ac86-11e8-81eb-95c363d46c9f.jpg)
+- [サブ垢なうぷれ](http://twitter.com/crystalenergy_m)![1d50c541-f0f7-4489-9000-d2f3c9b7196b](https://user-images.githubusercontent.com/42828621/44844681-8a425c00-ac86-11e8-81eb-95c363d46c9f.jpg)
 
 
 # 基本人物像
@@ -45,5 +45,19 @@
 
 -ツイッターで知り合った他県民を招いて静岡県内巡り。主にさわやかが大人気です。↓げんこつハンバーグ ![default](https://user-images.githubusercontent.com/42828621/44842150-11400600-ac80-11e8-8a2b-ba6622060f12.jpg)
 
+# アニメの評価について
+- 総合7点以上がオススメできるアニメです。
+※アニメーション:作画レベル、色使い等
+サウンド:主題歌、挿入歌を始め、劇中のBGMの質から音質（キャラクターの音声含む）
+キャラクター:キャラデザ、声優、性格付け等
+シナリオ:メイン、サイドストーリーの質、作品の進行速度、まとめ方、キャラ個々の掘り下げ度等
+これらを考慮しながらのレビューになっています。
+※全話視聴後にレビューする形を取っています。途中で切った作品は対象外です。
+
+## ガンダムシリーズ枠
+
+|作品名|アニメーション|サウンド|キャラクター|シナリオ|総合|
+|:--:|:--:|:--:|:--:|:--:|:--:|
+|機動戦士ガンダムシリーズ|9|9|9|<span style="color: red; ">10</span> |9.25|
 
 
