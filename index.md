@@ -39,7 +39,7 @@
 
 - サッカー観戦。主にジュビロ磐田と清水エスパルス
 
- -superGT MOTUL AUTECH GT-Rを応援
+ - superGT MOTUL AUTECH GT-Rを応援
 
 # 静岡オフ会
 
