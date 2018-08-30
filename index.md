@@ -43,5 +43,5 @@ superGT MOTUL AUTECH GT-Rを応援
 
 静岡オフ会
 
-ツイッターで知り合った他県民を招いて静岡県内巡り。主にさわやかが大人気です。![default](https://user-images.githubusercontent.com/42828621/44842150-11400600-ac80-11e8-8a2b-ba6622060f12.jpg)
+ツイッターで知り合った他県民を招いて静岡県内巡り。主にさわやかが大人気です。↓げんこつハンバーグ ![default](https://user-images.githubusercontent.com/42828621/44842150-11400600-ac80-11e8-8a2b-ba6622060f12.jpg)
 
