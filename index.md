@@ -1,10 +1,10 @@
 名前：くりすたるえなじー(くりえな)
 
-本垢：[AboutMe] (http://twitter.com/crystalenergy)
+本垢： (http://twitter.com/crystalenergy)
 
-サブ垢メイン:([AboutMe]http://twitter.com/crystalenergy_F)
+サブ垢メイン:(http://twitter.com/crystalenergy_F)
 
-サブ垢なうぷれ:([AboutMe]http://twitter.com/crystalenergy_m)
+サブ垢なうぷれ:(http://twitter.com/crystalenergy_m)
 
 基本人物像
 
