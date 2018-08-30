@@ -3,7 +3,8 @@
 本垢:(http://twitter.com/crystalenergy)![c0a0d57d-61a7-44a4-b04a-d79bd9a095d2](https://user-images.githubusercontent.com/42828621/44844549-35064a80-ac86-11e8-8fc0-bade647ebd60.jpg)
 
 
-サブ垢メイン:(http://twitter.com/crystalenergy_F)
+サブ垢メイン:(http://twitter.com/crystalenergy_F)![1f25c0d0-9ba2-4b6a-96b2-92d54e68a37d](https://user-images.githubusercontent.com/42828621/44844636-6aab3380-ac86-11e8-9b72-256e4cf4fe68.jpg)
+
 
 サブ垢なうぷれ:(http://twitter.com/crystalenergy_m)
 
