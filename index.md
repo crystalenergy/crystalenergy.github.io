@@ -15,11 +15,11 @@
 
 -名前の由来は、箱タグを作るときに栗林みな実の『Crystal Energy』(舞-乙HiMEのOP)のCDがあったから。
 
-#主な活動、
+#主な活動
 
 ##Xboxone 
 -
-FIFAシリーズ。「シーオブシーヴス（Sea of Thieves）をメインにオンラインプレイ中
+FIFAシリーズ。シーオブシーヴス（Sea of Thieves）をメインにオンラインプレイ中
 
 ##ソシャゲ 
 
