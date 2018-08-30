@@ -619,7 +619,7 @@
 |:--:|:--:|:--:|:--:|:--:|:--:|
 |劇場版 マクロスF 虚空歌姫～イツワリノウタヒメ～|9|<span style="color: red; ">10</span> |8|9|9|
 |劇場版 マクロスF 恋離飛翼～サヨナラノツバサ～|<span style="color: red; ">10</span> |<span style="color: red; ">10</span> |8|8|9|
-|劇場版文学少女|8|''&color(red){10};''|9|8|8.75|
+|劇場版文学少女|8|<span style="color: red; ">10</span> |9|8|8.75|
 |青の祓魔師-劇場版-|<span style="color: red; ">10</span> |9|9|<span style="color: red; ">10</span> |9.5|
 |劇場版 天元突破 グレンラガン 紅蓮篇|8|9|<span style="color: red; ">10</span> |8|8.75|
 |劇場版 天元突破 グレンラガン 螺巌篇|8|9|<span style="color: red; ">10</span> |9|9|
