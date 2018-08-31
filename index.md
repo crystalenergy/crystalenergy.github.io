@@ -175,7 +175,7 @@
 |探偵オペラ ミルキィホームズ第2幕|7|8|7|6|7|
 |アクエリオンEVOL|9|8|9|6|8|
 |輪廻のラグランジェ|9|9|9|8|8.75|
-|あの夏で待ってる|9|<span style="color: red; ">10</span> |10<span style="color: red; ">10</span> |<span style="color: red; ">10</span> |9.75|
+|あの夏で待ってる|9|<span style="color: red; ">10</span> |<span style="color: red; ">10</span> |<span style="color: red; ">10</span> |9.75|
 |パパのいうことを聞きなさい！|7|<span style="color: red; ">10</span> |9|9|8.75|
 |モーレツ宇宙海賊（パイレーツ）|8|7|7|6|7.25|
 |BRAVE10|8|7|9|8|8|
