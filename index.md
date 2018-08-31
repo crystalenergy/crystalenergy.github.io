@@ -3,28 +3,16 @@
 ## 目次
 
 - [基本人物像](#基本人物像)
-<h2 id="usage">基本人物像</h2>
-Consectetur Commodo Cursus Sollicitudin Vehicula
 
 - [主な活動](#主な活動)
-<h2 id="usage">主な活動</h2>
-Consectetur Commodo Cursus Sollicitudin Vehicula
 
 - [アニメの評価について](#アニメの評価について)
-<h2 id="usage">アニメの評価について</h2>
-Consectetur Commodo Cursus Sollicitudin Vehicula
 
 - [ガンダムシリーズ](#ガンダムシリーズ)
-<h2 id="usage">ガンダムシリーズ</h2>
-Consectetur Commodo Cursus Sollicitudin Vehicula
 
 - [一般枠](#一般枠)
-<h2 id="usage">一般枠</h2>
-Consectetur Commodo Cursus Sollicitudin Vehicula
 
 - [劇場・OVA](#劇場・OVA)
-<h2 id="usage">劇場・OVA</h2>
-Consectetur Commodo Cursus Sollicitudin Vehicula
 
 
 |用途|名前|アイコン|
