@@ -36,5 +36,5 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
--[劇場・OVA枠](劇場・OVA枠<h2 id="劇場・ova枠">劇場・OVA枠</h2)>
+-[劇場・OVA枠](劇場・OVA枠<h2 id="劇場・ova枠">劇場・OVA枠</h2>)
 
