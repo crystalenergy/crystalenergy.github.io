@@ -38,5 +38,5 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 -[劇場・OVA枠](劇場・OVA枠)
 
-<h2 id="劇場・ova枠">劇場・OVA枠</h2>
+<h2 id="劇場・ova枠">#劇場・OVA枠</h2>
 
