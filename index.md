@@ -17,7 +17,7 @@
 
 |用途|名前|アイコン|
 |:--:|:--:|:--:|
-| [本垢](http://twitter.com/crystalenergy)|エナダイバー|![c0a0d57d-61a7-44a4-b04a-d79bd9a095d2](https://user-images.githubusercontent.com/42828621/44844549-35064a80-ac86-11e8-8fc0-bade647ebd60.jpg)|
+| [本垢](http://twitter.com/crystalenergy)|宝多えな|https://github.com/crystalenergy/crystalenergy.github.io/issues/2#issue-367478332|
 |[サブ垢メイン](http://twitter.com/crystalenergy_F)|一条えな|![1f25c0d0-9ba2-4b6a-96b2-92d54e68a37d](https://user-images.githubusercontent.com/42828621/44844636-6aab3380-ac86-11e8-9b72-256e4cf4fe68.jpg)|
 |[サブ垢なうぷれ](http://twitter.com/crystalenergy_m)|エナスフィール・フォン・アインツベルン|![1d50c541-f0f7-4489-9000-d2f3c9b7196b](https://user-images.githubusercontent.com/42828621/44844681-8a425c00-ac86-11e8-81eb-95c363d46c9f.jpg)|
 
