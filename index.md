@@ -714,6 +714,6 @@
 |青の6号|9|9|8|7|8.25|
 |劇場版 Fate/kaleid linerプリズマ☆イリヤ 雪下の誓い|9|<span style="color: red; ">10</span> |9|9|9.25|
 |劇場版 魔法科高校の劣等生 星を呼ぶ少女|9|9|<span style="color: red; ">10</span>|7|8.75|
-
+|Re:ゼロから始める異世界生活 Memory Snow|9|9|<span style="color: red; ">10</span> |8|9|
 
 - [先頭へ](#目次)
