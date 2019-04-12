@@ -18,7 +18,7 @@
 
 |用途|名前|アイコン|
 |:--:|:--:|:--:|
-|[本垢](http://twitter.com/crystalenergy)|藤原えな|![e9947052-538a-4d75-b3ea-6a7038a033de](https://user-images.githubusercontent.com/42828621/52188970-13cf0900-2879-11e9-9677-2377a44a16a2.jpg)|
+|[本垢](http://twitter.com/crystalenergy)|エナ|![293D5D33-59A9-4546-B93F-D0209CDF90E0](https://user-images.githubusercontent.com/42828621/56034973-dba9e200-5d63-11e9-94b0-2139b911e222.jpg)|
 |[サブ垢メイン](http://twitter.com/crystalenergy_F)|一条えな|![1f25c0d0-9ba2-4b6a-96b2-92d54e68a37d](https://user-images.githubusercontent.com/42828621/44844636-6aab3380-ac86-11e8-9b72-256e4cf4fe68.jpg)|
 |[サブ垢なうぷれ](http://twitter.com/crystalenergy_m)|エナスフィール・フォン・アインツベルン|![1d50c541-f0f7-4489-9000-d2f3c9b7196b](https://user-images.githubusercontent.com/42828621/44844681-8a425c00-ac86-11e8-81eb-95c363d46c9f.jpg)|
 
