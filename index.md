@@ -763,9 +763,11 @@
 |劇場版 Fate/kaleid linerプリズマ☆イリヤ 雪下の誓い|9|<span style="color: red; ">10</span> |9|9|9.25|
 |劇場版 魔法科高校の劣等生 星を呼ぶ少女|9|9|<span style="color: red; ">10</span>|7|8.75|
 |Re:ゼロから始める異世界生活 Memory Snow|9|9|<span style="color: red; ">10</span> |8|9|
+|劇場版 FAIRY TAIL 鳳凰の巫女|8|8|9|8|8.5|
 |聲の形|9|9|8|8|8.5|
 |劇場版 - Fate/stay night [Heaven's Feel]|<span style="color: red; ">10</span> |9|9|7|8.75|
 |ご注文はうさぎですか？？ ～Dear My Sister～|8|7|9|7|7.75|
 |劇場版シティーハンター 新宿プライベート・アイズ|<span style="color: red; ">10</span> |<span style="color: red; ">10</span> |9|9|9.5|
+|劇場版FAIRY TAIL -DRAGON CRY-|9|8|8|9|8.5|
 
 - [先頭へ](#目次)
