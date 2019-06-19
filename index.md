@@ -769,5 +769,6 @@
 |ご注文はうさぎですか？？ ～Dear My Sister～|8|7|9|7|7.75|
 |劇場版シティーハンター 新宿プライベート・アイズ|<span style="color: red; ">10</span> |<span style="color: red; ">10</span> |9|9|9.5|
 |劇場版FAIRY TAIL -DRAGON CRY-|9|8|8|9|8.5|
+|青春ブタ野郎はゆめみる少女の夢を見ない|8|8|''&color(red){10};''|9|8.75|
 
 - [先頭へ](#目次)
