@@ -800,5 +800,6 @@
 |劇場版シティーハンター 新宿プライベート・アイズ|<span style="color: red; ">10</span> |<span style="color: red; ">10</span> |9|9|9.5|
 |劇場版FAIRY TAIL -DRAGON CRY-|9|8|8|9|8.5|
 |青春ブタ野郎はゆめみる少女の夢を見ない|8|8|<span style="color: red; ">10</span> |9|8.75|
+|劇場版はいからさんが通る 前編~紅緒、花の17歳~ 後編 ～花の東京大ロマン～|8|9|9|<span style="color: red; ">10</span> |9|
 
 - [先頭へ](#目次)
