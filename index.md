@@ -117,6 +117,7 @@
 |機動戦士ガンダム 鉄血のオルフェンズ 2期|9|<span style="color: red; ">10</span> |8|9|9|
 |ガンダムビルドダイバーズ|9|7|9|9|8.5|
 |機動戦士ガンダムNT|<span style="color: red; ">10</span> |9|9|9|9.75|
+|機動戦士ガンダム THE ORIGIN 前夜 赤い彗星|<span style="color: red; ">10</span> |9|9|8|9|
 
 ## 一般枠
 
