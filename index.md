@@ -832,5 +832,6 @@
 |この素晴らしい世界に祝福を！ 紅伝説|8|9|9|8|8.5|
 |天気の子|<span style="color: red; ">10</span> |<span style="color: red; ">10</span> |<span style="color: red; ">10</span> |<span style="color: red; ">10</span> |<span style="color: red; ">10</span> |
 |劇場版デート・ア・ライブ 万由里ジャッジメント|7|8|9|7|7.75|
+|文豪ストレイドッグス DEAD APPLE|9|9|8|8|8.5|
 
 - [先頭へ](#目次)
