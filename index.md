@@ -752,7 +752,7 @@
 |アズールレーン|-|-|-|-|-|
 |放課後さいころ倶楽部|8|8|9|8|8.25|
 |厨病激発ボーイ|-|-|-|-|-|
-|GRANBLUE FANTASY The Animation Season2|-|-|-|-|-|
+|GRANBLUE FANTASY The Animation Season2|8|7|8|6|7.25|
 |ハイスコアガールII|8|7|8|8|7.75|
 |Fate/Grand Order -絶対魔獣戦線バビロニア-|-|-|-|-|-|
 |ぼくたちは勉強ができない！|-|-|-|-|-|
