@@ -19,8 +19,8 @@
 |用途|名前|アイコン|
 |:--:|:--:|:--:|
 |[本垢](http://twitter.com/crystalenergy)|灰のエナ|![IMG_1839](https://user-images.githubusercontent.com/42828621/95642028-eb34f300-0ae0-11eb-8ba1-e8317ff0460d.JPG)|
-|[サブ垢メイン](http://twitter.com/crystalenergy_F)|エナ|![293D5D33-59A9-4546-B93F-D0209CDF90E0](https://user-images.githubusercontent.com/42828621/59366832-e689ee80-8d75-11e9-8165-e865bc395c33.jpg)|
-|[サブ垢なうぷれ](http://twitter.com/crystalenergy_m)|エナスフィール・フォン・アインツベルン|![1d50c541-f0f7-4489-9000-d2f3c9b7196b](https://user-images.githubusercontent.com/42828621/44844681-8a425c00-ac86-11e8-81eb-95c363d46c9f.jpg)|
+|[サブ垢メイン](http://twitter.com/crystalenergy_F)|六車えな|![IMG_1858](https://user-images.githubusercontent.com/42828621/97122331-79a7a680-1768-11eb-9c07-896c98b5e092.JPG)|
+|[サブ垢なうぷれ](http://twitter.com/crystalenergy_m)|優木え菜|![IMG_1858](https://user-images.githubusercontent.com/42828621/97122331-79a7a680-1768-11eb-9c07-896c98b5e092.JPG)|
 
 
 # 基本人物像
