@@ -18,7 +18,7 @@
 
 |用途|名前|アイコン|
 |:--:|:--:|:--:|
-|[本垢](http://twitter.com/crystalenergy)|灰のエナ|![IMG_1839](https://user-images.githubusercontent.com/42828621/95642028-eb34f300-0ae0-11eb-8ba1-e8317ff0460d.JPG)|
+|[本垢](http://twitter.com/crystalenergy)|灰のエナ|![Uploading IMG_4722.JPG…]()|
 |[サブ垢メイン](http://twitter.com/crystalenergy_F)|六車えな|![IMG_1858](https://user-images.githubusercontent.com/42828621/97122331-79a7a680-1768-11eb-9c07-896c98b5e092.JPG)|
 |[サブ垢なうぷれ](http://twitter.com/crystalenergy_m)|優木え菜|![IMG_4614](https://user-images.githubusercontent.com/42828621/100809916-9f684f80-347a-11eb-80dd-c4741c529378.JPG)
 |
