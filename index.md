@@ -899,7 +899,7 @@
 |僕のヒーローアカデミア5期|-|-|-|-|-|
 |SSSS.DYNAZENON|9|9|<span style="color: red; ">10</span> |8|9|
 |ましろのおと|8|8|9|8|8.25|
-|Vivy ーFluorite Eye’s Song|-|-|-|-|-|
+|Vivy ーFluorite Eye’s Song|<span style="color: red; ">10</span> |<span style="color: red; ">10</span> |<span style="color: red; ">10</span> |<span style="color: red; ">10</span> |<span style="color: red; ">10</span> |
 |さよなら私のクラマー|-|-|-|-|-|
 |セブンナイツ レボリューション -英雄の継承者-|-|-|-|-|-|
 |86－エイティシックス－|-|-|-|-|-|
