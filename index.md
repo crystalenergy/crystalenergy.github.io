@@ -897,7 +897,7 @@
 |回復術士のやり直し|7|7|8|7|7.25|
 |転生したらスライムだった件2期前編|8|8|9|8|8.25|
 |ブラッククローバー 劇場に続く|8|9|9|9|8.75|
-|僕のヒーローアカデミア5期|-|-|-|-|-|
+|僕のヒーローアカデミア5期|8|8|7|7|7.5|
 |SSSS.DYNAZENON|9|9|<span style="color: red; ">10</span> |8|9|
 |ましろのおと|8|8|9|8|8.25|
 |Vivy ーFluorite Eye’s Song|<span style="color: red; ">10</span> |<span style="color: red; ">10</span> |<span style="color: red; ">10</span> |<span style="color: red; ">10</span> |<span style="color: red; ">10</span> |
