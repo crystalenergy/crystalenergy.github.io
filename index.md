@@ -948,6 +948,7 @@
 |ODDTAXI|9|<span style="color: red; ">10</span> |9|9|9.25|
 |SELECTION PROJECT|-|-|-|-|-| 
 |体操ザムライ|-|-|-|-|-|
+|終末のワルキューレ|-|-|-|-|-|
 
 
 
