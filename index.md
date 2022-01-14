@@ -20,8 +20,7 @@
 |:--:|:--:|:--:|
 |[本垢](http://twitter.com/crystalenergy)|灰のエナ|![IMG_4730](https://user-images.githubusercontent.com/42828621/105839125-5cf36700-6014-11eb-8d7a-7d13b3296a7a.JPG)|
 |[サブ垢メイン](http://twitter.com/crystalenergy_F)|エナ・クレール|![IMG_2154](https://user-images.githubusercontent.com/42828621/137520613-94113f77-55ea-429f-875e-5df7336ba44d.jpeg)|
-|[サブ垢なうぷれ](http://twitter.com/crystalenergy_m)|優木え菜|![IMG_4614](https://user-images.githubusercontent.com/42828621/100809916-9f684f80-347a-11eb-80dd-c4741c529378.JPG)
-|
+|[サブ垢なうぷれ](http://twitter.com/crystalenergy_m)|優木え菜|![IMG_4614](https://user-images.githubusercontent.com/42828621/100809916-9f684f80-347a-11eb-80dd-c4741c529378.JPG)|
 
 
 # 基本人物像
