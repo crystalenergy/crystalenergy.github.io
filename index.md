@@ -44,6 +44,14 @@
 
 - Fernbus Simulator、Carrier Deck 、Euro Truck Simulator 2をプレイ中
 
+## メインデバイス
+
+- iPhone12 pro 
+- iPad pro 12.9 第5世代
+- Apple Watch series4
+- MacBook Pro 14インチ
+- Air Pods pro 第2世代
+
 ## ソシャゲ
 
 - アイドルマスター シンデレラガールズ スターライトステージ 惜しは小早川紗枝、依田芳乃、水本ゆかり、仲野有香、一ノ瀬志希、北条加蓮。
