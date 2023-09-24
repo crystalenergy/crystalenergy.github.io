@@ -50,9 +50,9 @@
 
 ## メインデバイス
 
-- iPhone12 pro 
+- iPhone1５ pro 
 - iPad pro 12.9 第5世代
-- Apple Watch series4
+- Apple Watch ultra２
 - MacBook Pro 14インチ
 - Air Pods pro 第2世代
 
