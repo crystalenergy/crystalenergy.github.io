@@ -21,7 +21,8 @@
 |[本垢](http://twitter.com/crystalenergy)|秋音えな|![IMG_5916](https://user-images.githubusercontent.com/42828621/232307242-9f3c1b5f-5783-4b50-ac75-7852494de9a6.JPG)|
 |[サブ垢メイン](http://twitter.com/crystalenergy_F)|エナ・クレール|![IMG_2154](https://user-images.githubusercontent.com/42828621/137520613-94113f77-55ea-429f-875e-5df7336ba44d.jpeg)|
 |[サブ垢なうぷれ](http://twitter.com/crystalenergy_m)|優木え菜|![IMG_4614](https://user-images.githubusercontent.com/42828621/100809916-9f684f80-347a-11eb-80dd-c4741c529378.JPG)|
-|[BlueSky](https://bsky.app/profile/crystalenergy.bsky.social)|エナ・クレール
+|[BlueSky](https://bsky.app/profile/crystalenergy.bsky.social)|エナ・クレール|![IMG_4614](https://cdn.bsky.app/img/avatar/plain/did:plc:bygepyqvzmqp4dihjwsioz6p/bafkreiealb6kuuxysg2zgwkwk3f336iht7cbzapdvcoistzhfmowe5kbru@jpeg)
+|
 
 
 # 基本人物像
