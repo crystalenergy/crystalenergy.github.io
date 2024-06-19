@@ -52,7 +52,7 @@
 
 ## メインデバイス
 
-- iPhone1５ pro 
+- iPhone15 pro 
 - iPad pro 12.9 第5世代
 - Apple Watch ultra２
 - MacBook Pro 14インチ
