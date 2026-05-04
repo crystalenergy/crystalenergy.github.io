@@ -51,7 +51,7 @@
 - ゲームパス有効活用
 　をメインにオンラインプレイ中
 
-## Nintendo Switch OLED
+## Nintendo Switch OLED/Nintendo Switch 2
 
 - FEエンゲージ
 
